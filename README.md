@@ -28,6 +28,6 @@ So, we will track the progress in two ways:
 
 ## SYLLABUS ( Per Day Basis ):
 
-1. [DAY 01 : 20-06-2017 : ( Exercise Monitoring Solution ) ]()
+1. [DAY 01 : 20-06-2017 : ( Exercise Monitoring Solution ) ](https://github.com/aayush-bhardwaj/GooglePedia/tree/master/Projects/Ex_Monitoring_Solution)
 2.
 3.
