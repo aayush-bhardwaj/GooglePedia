@@ -14,43 +14,20 @@ There are a lot of other Cool companies, but believe me if you hold the Offer le
 
 Trust me you are good enough to crack any interview.
 
-So, what will be our approach throughout this book, we divide the entire process into 3 stages.
+So, I start writing this book on 20-06-2017 and with 195 days left in 2017 the plan is to get ready for Big 4 by EOY.
 
-## 3 Steps to a Google Ninja.
+So, we will track the progress in two ways:
 
-* White Belt Ninja
-* Grey Belt Ninja
-* Black Belt Ninja
+* Per day basis
+* Content basis
 
-This book will be less of a tutorial series and more of a Diary that gathers the journey of a GOOGLER aspirant towards becoming a GOOGLER.
+## SYLLABUS ( Content Basis ):
 
-An expirement where I am the lab rat and the subject of the expirement is -
+1.
+2.
 
-"Can we crack the Google interview if we follow this study pattern."
+## SYLLABUS ( Per Day Basis ):
 
-Cool!
-
-We will track the day by day progress of ours towards our GOOGLE preparation and trust me I am a very slow learner and if I could do it in say x number of days you could definetely do it dude.
-
-# What is a White Belt in GOOGLEPEDIA -
-
-Once you have secured a White Belt in say x days, you are good enough to start applying for GOOGLE interviews and definetely good enough to clear the initial telephonic rounds, you have crossed the initial threshold required to get GOOGLE ready, yes you don't need to push yourself anymore to sit down and code it's part of your lifestyle your DNA.
-
-# What is a Grey Belt in GOOGLEPEDIA -
-
-Once you have secured a Grey Belt in say y days, you are good enough to crack the GOOGLE interview and all that is left to achieve is perfection.
-
-# What is a Black Belt in GOOGLEPEDIA -
-
-This is the journey towards perfection, towards being the ultimate Programmer the GOOGLER.
-
-## Chapters
-
-# WHITE BELT NINJA :
-
-1. Introduction.
-2. Something.
-
-# GREY BELT NINJA :
-
-# BLACK BELT NINJA :
+1.
+2.
+3.
