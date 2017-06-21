@@ -14,20 +14,14 @@ There are a lot of other Cool companies, but believe me if you hold the Offer le
 
 Trust me you are good enough to crack any interview.
 
-So, I start writing this book on 20-06-2017 and with 195 days left in 2017 the plan is to get ready for Big 4 by EOY.
+So, I start writing this book on 21-06-2017 and with 194 days left in 2017 the plan is to get ready for Big 4 by EOY.
 
-So, we will track the progress in two ways:
+This is not a book to be followed by absolute beginners to crack the GOOGLE interview, rather it's a journal that an aspiring GOOGLER is maintaining towards his journey to becoming GOOGLE fit.
 
-* Per day basis
-* Content basis
+I will track my progress on a per day basis for the next 194 days.
 
-## SYLLABUS ( Content Basis ):
+## CONTENTS :
 
-1.
-2.
-
-## SYLLABUS ( Per Day Basis ):
-
-1. [DAY 01 : 20-06-2017 : ( Exercise Monitoring Solution ) ](https://github.com/aayush-bhardwaj/GooglePedia/tree/master/Projects/Ex_Monitoring_Solution)
-2.
-3.
+1. [DAY 001 : 21-06-2017 : ]()
+  * Pointer 01
+  * Pointer 02
