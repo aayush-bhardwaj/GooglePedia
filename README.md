@@ -22,6 +22,6 @@ I will track my progress on a per day basis for the next 194 days.
 
 ## CONTENTS :
 
-1. [DAY 001 : 21-06-2017 : ]()
+1. [DAY 001 : 22-06-2017 : ]()
   * Pointer 01
   * Pointer 02
